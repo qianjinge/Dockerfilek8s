@@ -1,0 +1,1 @@
+本项目用于gcr.io下的k8s镜像文件中转到dockerhub下
